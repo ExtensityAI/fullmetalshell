@@ -16,6 +16,12 @@ See more info at the original [Repository](https://github.com/ExtensityAI/symbol
 $> sympkg i ExtensityAI/fullmetalshell
 ```
 
+### Usage
+
+```bash
+$> symsh --style=ExtensityAI/fullmetalshell
+```
+
 Enjoy!
 
 ![Example](assets/example.png)
